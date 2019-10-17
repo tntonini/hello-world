@@ -1,2 +1,2 @@
 # hello-world
-First repo for CS 25th 361
+First repo for CS 361
